@@ -12,17 +12,16 @@ vless://80234e67-3c57-4881-9d8c-f433f3ea6a01@185.170.166.189:443?path=%2Fray%3Fe
 
 vless://80234e67-3c57-4881-9d8c-f433f3ea6a01@45.85.119.231:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=al.vexame.cfd&type=ws&sni=al.vexame.cfd#MTN2
 
-vless://a759eb27-b062-452d-db5c-b207aa02582e@45.85.119.231:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=fa.vimaxe.sbs&type=ws&sni=fa.vimaxe.sbs#Finland-MTN
-
-vless://ce265a81-714c-45db-e244-ca3eb5b8f87b@45.85.119.231:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=us.vexame.cfd&type=ws&sni=us.vexame.cfd#GermanyMTN
-
-vless://ce265a81-714c-45db-e244-ca3eb5b8f87b@45.85.118.21:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=us.vexame.cfd&type=ws&sni=us.vexame.cfd#Germany-MCI
-
 vless://ce265a81-714c-45db-e244-ca3eb5b8f87b@us.vexame.cfd:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&type=ws&sni=us.vexame.cfd#Germany4
 
 vless://ce265a81-714c-45db-e244-ca3eb5b8f87b@185.170.166.189:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=us.vexame.cfd&type=ws&sni=us.vexame.cfd#US6
 vless://12fcf9aa-d6c3-46ac-f5d2-b0d874da56b4@185.170.166.189:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=it.vexame.cfd&type=ws&sni=it.vexame.cfd#US8
 vless://80234e67-3c57-4881-9d8c-f433f3ea6a01@185.170.166.189:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=am.vexame.cfd&type=ws&sni=am.vexame.cfd#US7
+
 vless://a759eb27-b062-452d-db5c-b207aa02582e@185.170.166.189:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=fam.vimaxe.sbs&type=ws&sni=fam.vimaxe.sbs#Finland-MCI1
 vless://a759eb27-b062-452d-db5c-b207aa02582e@159.246.55.217:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=fam.vimaxe.sbs&type=ws&sni=fam.vimaxe.sbs#Finland-MCI2
-
+vless://a759eb27-b062-452d-db5c-b207aa02582e@45.85.119.231:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=fam.vimaxe.sbs&type=ws&sni=fam.vimaxe.sbs#Finland-MTN1
+vless://54f1fe5e-fa23-46f5-b12c-6e2deb7bdeda@v1.gamersclub01.shop:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=#US9
+vless://fb8e52df-4614-40af-d22b-8da2fb01d228@45.85.119.231:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=free.vimaxe.sbs&type=ws&sni=free.vimaxe.sbs#Germany-MTN
+vless://fb8e52df-4614-40af-d22b-8da2fb01d228@185.170.166.189:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=free.vimaxe.sbs&type=ws&sni=free.vimaxe.sbs#Germany-MCI2
+vless://fb8e52df-4614-40af-d22b-8da2fb01d228@159.246.55.217:443?path=%2Fray%3Fed%3D2048&security=tls&encryption=none&host=free.vimaxe.sbs&type=ws&sni=free.vimaxe.sbs#Germany-MCI3
